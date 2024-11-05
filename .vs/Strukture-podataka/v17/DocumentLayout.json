@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petra\\Desktop\\Strukture-podataka\\zadatak1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zadatak1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba3\\vjezba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vjezba3\\vjezba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba2\\vjezba2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vjezba2\\vjezba2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba1\\zadatak1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vjezba1\\zadatak1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "vjezba3.cpp",
+              "DocumentMoniker": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba3\\vjezba3.cpp",
+              "RelativeDocumentMoniker": "vjezba3\\vjezba3.cpp",
+              "ToolTip": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba3\\vjezba3.cpp",
+              "RelativeToolTip": "vjezba3\\vjezba3.cpp",
+              "ViewState": "AgIAACMBAAAAAAAAAAAiwEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T12:58:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vjezba2.cpp",
+              "DocumentMoniker": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba2\\vjezba2.cpp",
+              "RelativeDocumentMoniker": "vjezba2\\vjezba2.cpp",
+              "ToolTip": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba2\\vjezba2.cpp",
+              "RelativeToolTip": "vjezba2\\vjezba2.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T10:36:10.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "zadatak1.cpp",
-              "DocumentMoniker": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\zadatak1.cpp",
-              "RelativeDocumentMoniker": "zadatak1.cpp",
-              "ToolTip": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\zadatak1.cpp",
-              "RelativeToolTip": "zadatak1.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwC4AAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba1\\zadatak1.cpp",
+              "RelativeDocumentMoniker": "vjezba1\\zadatak1.cpp",
+              "ToolTip": "C:\\Users\\Petra\\Desktop\\Strukture-podataka\\vjezba1\\zadatak1.cpp",
+              "RelativeToolTip": "vjezba1\\zadatak1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T10:30:26.066Z",
               "EditorCaption": ""
