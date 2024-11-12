@@ -1,2 +1,0 @@
-﻿  vjezba4.c
-C:\Users\Petra\Desktop\Strukture-podataka\vjezba4\zad4\vjezba4.c(72,12): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
